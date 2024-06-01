@@ -1,0 +1,248 @@
+{
+  "shortDescription": "Test your knowledge of Ethereum with this quiz.",
+  "questions": [
+    {
+      "question": "Who co-founded Ethereum?",
+      "answers": [
+        "Buterin",
+        "Nakamoto",
+        "Wright"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What's ETH?",
+      "answers": [
+        "Token",
+        "Protocol",
+        "Miner"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "When launched?",
+      "answers": [
+        "2015",
+        "2013",
+        "2017"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is ERC-20?",
+      "answers": [
+        "Token",
+        "Standard",
+        "Protocol"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Solidity?",
+      "answers": [
+        "Language",
+        "Tool",
+        "Blockchain"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created Uniswap?",
+      "answers": [
+        "Adams",
+        "Lubin",
+        "Wood"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DeFi?",
+      "answers": [
+        "Finance",
+        "Token",
+        "Mining"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is MetaMask?",
+      "answers": [
+        "Wallet",
+        "Exchange",
+        "Token"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Layer 2?",
+      "answers": [
+        "Scaling",
+        "Mining",
+        "Protocol"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What's a DAO?",
+      "answers": [
+        "Org",
+        "Token",
+        "Tool"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is EVM?",
+      "answers": [
+        "Machine",
+        "Miner",
+        "Wallet"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is zk-SNARK?",
+      "answers": [
+        "Proof",
+        "Token",
+        "Chain"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created Polkadot?",
+      "answers": [
+        "Wood",
+        "Buterin",
+        "Lubin"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a dApp?",
+      "answers": [
+        "App",
+        "Token",
+        "Protocol"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created Chainlink?",
+      "answers": [
+        "Ellis",
+        "Buterin",
+        "Zhou"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What's Ethereum's upgrade?",
+      "answers": [
+        "Serenity",
+        "Petrify",
+        "Byzantium"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What's sharding?",
+      "answers": [
+        "Scaling",
+        "Mining",
+        "Consensus"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is ConsenSys founder?",
+      "answers": [
+        "Lubin",
+        "Wood",
+        "Nakamoto"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Plasma?",
+      "answers": [
+        "Scaling",
+        "Token",
+        "Wallet"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Casper?",
+      "answers": [
+        "Protocol",
+        "Token",
+        "Wallet"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Oracles?",
+      "answers": [
+        "Data",
+        "Token",
+        "Wallet"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is MEV?",
+      "answers": [
+        "Value",
+        "Token",
+        "Protocol"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Infura?",
+      "answers": [
+        "Node",
+        "Wallet",
+        "Exchange"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created Gnosis?",
+      "answers": [
+        "Kohler",
+        "Buterin",
+        "Lubin"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What's Proof of Stake?",
+      "answers": [
+        "Consensus",
+        "Token",
+        "Wallet"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Swarm?",
+      "answers": [
+        "Storage",
+        "Mining",
+        "Token"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Raiden?",
+      "answers": [
+        "Scaling",
+        "Token",
+        "Wallet"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
